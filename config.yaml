@@ -1,10 +1,10 @@
 file:
- - D:\PSP\PSP.xlsx
- - D:\PSP\MyWiki\MyWiki.wiki
+ - D:\Box Sync\PSP\PSP.xlsx
+ - D:\Box Sync\PSP\MyWiki\MyWiki.wiki
 app:
 # - chrome
  - outlook
- - communicator
+ - lync
 # - firefox
-uri:
- - http://yammer.com
+#uri:
+# - http://yammer.com
